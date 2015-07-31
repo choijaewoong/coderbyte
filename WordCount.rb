@@ -1,8 +1,5 @@
 def WordCount(str)
-
-  # code goes here
   return str.split.size 
-         
 end
    
 # keep this function call here 
