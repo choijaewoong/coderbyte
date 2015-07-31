@@ -6,7 +6,6 @@ def ExOh(str)
   if o_count == x_count    
     return true    
   end 
-  # code goes here
   return false         
 end
    
