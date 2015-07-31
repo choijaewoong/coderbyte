@@ -1,6 +1,5 @@
 def FirstReverse(str)
 
-  # code goes here
   # str 문장을 뒤집는다!
   return str.reverse
          
