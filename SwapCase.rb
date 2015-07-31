@@ -1,8 +1,5 @@
 def SwapCase(str)
-
-  # code goes here  
   return str.swapcase 
-         
 end
    
 # keep this function call here 
